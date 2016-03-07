@@ -1,10 +1,7 @@
 /*=== Assignment 1 ===
 
 Author: Srinivasa Maringanti
-SJSU id: 009874969
-Tags: TCP
-Course: CMPE 207
-Submitted to: Prof. Wei Xu
+
 Client side
 */
 #include <stdio.h>
