@@ -1,7 +1,6 @@
 /*=== Assignment 1 ===
 
 Author: Srinivasa Maringanti
-
 Client side
 */
 #include <stdio.h>
